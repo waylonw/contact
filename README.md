@@ -1,2 +1,2 @@
 # contact
-First contact. Third type.
+First contact. Third type. Second of all. 
